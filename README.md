@@ -1,5 +1,5 @@
 # Secrets-Authentication
-To learn the different levels of Authentication &amp; Security
+To study and implement the different levels of Authentication &amp; Security
 
 # Levels
 1. Username & Password
